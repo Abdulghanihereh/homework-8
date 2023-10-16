@@ -1,0 +1,18 @@
+.hero_section{
+    width: 100%;
+    height: 83vh;
+    background-image: url(https://images.pexels.com/photos/9275801/pexels-photo-9275801.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.discover{
+    width: 50px;
+    height: 50px;
+}
+.icon-discover{
+    top: 24px;
+    left: 8px;
+}
+p{
+    font-size: 50px;
+}
